@@ -12,3 +12,8 @@ target/
 # Dev configs
 .envrc
 .direnv/
+
+
+# Added by cargo
+
+/target
